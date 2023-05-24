@@ -1,0 +1,184 @@
+{
+  "basics": {
+    "name": "Ronan Camus",
+    "label": "Freelance Pylote",
+    "image": "https://avatars.githubusercontent.com/u/10685957?v=4",
+    "email": "ronan@pylote.io",
+    "phone": "",
+    "url": "https://www.linkedin.com/in/freelance-cto/",
+    "summary": "🎓 Epitech Promo 2018\n\n🚀 CTO & Cofondateur de Pylote.io, une extension dédiée au développeurs freelances.\n\n------------------------------------------------------------------------------------\n\n\n\n🔧 Je propose en ce moment une offre de développement d'extensions Chrome, Firefox, Safari etc.\n\nL'extension Pylote parle d'elle même, je suis capable de bootstraper ou développer entièrement tout type d'extension ✅. Je peux également convertir une extension existante vers un autre navigateur.\n\nDu scrapping Linkedin (ou autre), aux outils de productivités, aux vpn - j'adore les challenges et la R&D.\n\nJe travaille aussi sur une formation aux développement d'extensions qui apparaîtra sur Udemy.\n\n\n\n------------------------------------------------------------------------------------\n\nJe suis également disponible en temps que CTO à temps partiel pour start-up à un rythme max de 2j/semaine ⤵️ \n\n- Réunion de lancement pour mettre à jour les objectifs court termes\n- Échange avec le/la CEO pour s’imprégner de la stratégie et de la vision du projet\n- Priorisation des fonctionnalités, choix des technos et identification des étapes de développement\n- Formalisation de la roadmap produit\n- Choix du type d’équipe, de ses compétences et de son évolution dans le temps\n- Formalisation des budgets techniques et mise à jour du BP\n- Accompagnement aux rdv investisseurs /subventions\n- Ajustement de la roadmap en fonction des échanges pour les subventions\n- Appel à un UX/UI designer si besoin de maquettes\n- Optimisation des développements, challenge des développeurs\n- Sourcing de l’équipe\n- Pilotage des développements, challenge et formation des développeurs\n- COPIL mensuel pour faire un bilan des avancées, lever les points d’alerte et ajuster les objectifs sur les semaines qui viennent\n- Éventuellement, développement de features, ou R&D\n\n👋\n",
+    "location": { "address": "Ile-de-France" },
+    "languages": [
+      { "language": "anglais", "fluency": "capacite_professionnelle_complete" },
+      { "language": "francais", "fluency": "bilingue_ou_langue_natale" },
+      { "language": "espagnol", "fluency": "notions" }
+    ],
+    "profiles": [
+      {
+        "username": "freelance-dev",
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/freelance-cto/"
+      },
+      {
+        "username": "ronan-ca",
+        "network": "Stack Overflow",
+        "url": "https://stackoverflow.com/users/5467919/ronan-ca"
+      },
+      {
+        "username": "RonanCamus",
+        "network": "GitHub",
+        "url": "https://github.com/RonanCamus"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Pylote",
+      "position": "CTO & Co-founder",
+      "startDate": "2020-08-01",
+      "summary": "Développement from scratch de l'extension.\nLa première année en html/css/js vanilla. Depuis, refonte totale en React/Typescript &co.\n\nDisponible sur le Chrome Store et Mozilla Addons.\n\nElle permet aux freelances de mettre à jour leur disponibilités sur plusieurs plateformes en un clic et d'avoir un profil centralisé.\n\nhttps://pylote.io"
+    },
+    {
+      "name": "Pylote",
+      "position": "CTO & Co-founder",
+      "startDate": "2023-03-01",
+      "endDate": "2023-04-01",
+      "summary": "Développement from scratch d'une extension chrome pour une utilisation en interne.\nFormation de l'équipe de développement pour poursuivre les développements."
+    },
+    {
+      "name": "ASMEDIA",
+      "position": "CTO & Tech lead",
+      "startDate": "2020-10-01",
+      "endDate": "2022-12-31",
+      "summary": "En tant que CTO et Tech Lead pendant 2 ans, j'ai eu l'opportunité de relever de nombreux défis, notamment la constitution et la gestion d'une équipe technique, la formation de développeurs et la gestion de projet.\n\nAu cours de cette période, j'ai également :\n\n  -  Assuré la responsabilité du développement et de l'entretien technique d'un projet multi-sites comprenant une vingtaine de sites\n   - Dirigé le développement d'une plateforme à forte audience, comptant plus de 10 000 utilisateurs et 190000 inscriptions, ainsi que le recrutement, la formation et la gestion de 7 développeurs (alternants, stagiaires et indépendants)\n  -  Dirigé un projet portant sur des sujets tels que la blockchain, l'intelligence artificielle et l'automatisation à grande échelle."
+    },
+    {
+      "name": "Autrement",
+      "position": "Développeur Backend | No-code | Wordpress | WebFlow",
+      "startDate": "2020-04-01",
+      "endDate": "2020-08-31",
+      "summary": "Développement du site autrement.io, destiné à mettre relation des growth marketers et des entreprises.\n\nLa partie publique a été faite avec Wordpress (instance AWS Lightsail \"multisite\" avec SSL), et la partie privée a été conçue puis réalisée avec la combinaison suivante : \n\nBack (template engine + api) - Node.js, Express.js, Airtable, AWS\nFront - Webflow (export)\nAutomatisation - Zapier, Sendgrid, Typeform"
+    },
+    {
+      "name": "3S Santé",
+      "position": "Développeur FullStack",
+      "startDate": "2019-07-01",
+      "endDate": "2020-03-01",
+      "summary": "Développement d'une plateforme web principalement destinée à permettre :\n- À des intérimaires de donner leurs disponibilités et de remplir un profil riche\n- Au client d'effectuer une recherche par filtres sur ces intérimaires dans le but de trouver une mission leur correspondant\n\nStack MERN (MongoDb - Express.js - React.js - Node.js). Application Web déployée sur App Engine de Google Cloud Platform et versionnée sur Gitlab.\n\nMigration de l'ancien site vers un site moderne avec un Job Board (missions ajoutées par le client)\nCMS : Wordpress\n"
+    },
+    {
+      "name": "Pikcio",
+      "position": "Ingénieur Logiciel",
+      "startDate": "2018-03-27",
+      "endDate": "2019-05-09",
+      "summary": "Développement et maintien d’un projet Python orienté  Web API dans une startup ayant sa propre blockchain."
+    },
+    {
+      "name": "INP",
+      "position": "Ingénieur IT",
+      "startDate": "2016-09-21",
+      "endDate": "2018-02-28",
+      "summary": "Administration systèmes et sécurité. Développement d’outils en C# .NET, d’une application Android, d’un site web."
+    },
+    {
+      "name": "ENOVEE",
+      "position": "Développeur .NET / WebAPI / Logiciel",
+      "startDate": "2016-03-01",
+      "endDate": "2016-08-31",
+      "summary": "Développement d'APIs en C# avec ASP.NET, et de services Windows avec .NET."
+    },
+    {
+      "name": "AAM COMMUNICATION",
+      "position": "Développeur Web",
+      "startDate": "2015-09-01",
+      "endDate": "2016-02-29",
+      "summary": "Mise à jour et réalisation du BackEnd et du FrontEnd d’un site web sous CakePHP."
+    },
+    {
+      "name": "AAM COMMUNICATION",
+      "position": "Développeur Web",
+      "startDate": "2014-09-01",
+      "endDate": "2014-12-31",
+      "summary": "Développement web en HTML5, CSS, et PHP avec le moteur de templates Twig."
+    }
+  ],
+  "education": [
+    {
+      "instituion": "EPITECH",
+      "studyType": "Bac +5 Expert en Technologies de l'information",
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01"
+    },
+    {
+      "instituion": "Ahlia University",
+      "studyType": "IT Engineer",
+      "startDate": "2017-01-01",
+      "endDate": "2017-01-01"
+    },
+    {
+      "instituion": "Lycée Albert Camus",
+      "studyType": "Baccalauréat, Scientifique",
+      "startDate": "2013-01-01",
+      "endDate": "2013-01-01"
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    { "Name": "Toeic", "Date": "2016-01-01" },
+    {
+      "Name": "Blockchain",
+      "Date": "2020-01-01",
+      "Url": "https://skillvalue.com/fr/certificate/ufoTgkNCg89eAnXJsQrTWVEZLFHbXueIvvdVQdoFHp1TOIWmGIikKHWjxV4e"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "keywords": [
+        "React",
+        "Typescript",
+        "Node",
+        "Databases (MySQL, MongoDb, DynamoDb)",
+        "Firebase",
+        "Outils no-code (Zapier, Integromat, Airtable, Webflow, Typeform, etc.)",
+        "Scrapping"
+      ]
+    },
+    {
+      "name": "Browser Extensions",
+      "keywords": ["Chrome", "Firefox", "Safari", "Brave"]
+    },
+    {
+      "name": "Tech Lead / CTO",
+      "keywords": [
+        "Management d'équipe tech",
+        "Recrutement",
+        "Formation de développeurs",
+        "Choix de stack technique"
+      ]
+    }
+  ],
+  "interests": [],
+  "projects": [],
+  "meta": {
+    "firstName": "Ronan",
+    "lastName": "Camus",
+    "freelance": {
+      "openToCdi": false,
+      "available": false,
+      "availabilityDate": "2023-04-13",
+      "rate": "800",
+      "seniority": "senior_6-10_ans",
+      "professions": [
+        "chef_de_projet_digital",
+        "product_manager",
+        "scrum_master"
+      ],
+      "preferences": {
+        "missionDuration": "courtes_0-6_mois",
+        "remoteWork": "tele-travail",
+        "daysPerWeek": "temps_plein_5j/semaine"
+      }
+    }
+  }
+}
