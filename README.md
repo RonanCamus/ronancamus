@@ -13,19 +13,19 @@
 
 - 🤝 I’m looking for help with [Pylote](https://pylote.io)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/freelance-dev/](https://www.linkedin.com/in/freelance-dev/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/freelance-cto/](https://www.linkedin.com/in/freelance-cto/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/freelance-dev/recent-activity/shares/](https://www.linkedin.com/in/freelance-dev/recent-activity/shares/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/freelance-cto/recent-activity/shares/](https://www.linkedin.com/in/freelance-cto/recent-activity/shares/)
 
 - 💬 Ask me about **React.js, Node.js or hacking**
 
 - 📫 How to reach me **-> MP**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/freelance-dev/](https://www.linkedin.com/in/freelance-dev/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/freelance-cto/](https://www.linkedin.com/in/freelance-cto/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/freelance-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="freelance-dev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/freelance-cto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="freelance-cto" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/5467919" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5467919" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/theo dorp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="theo dorp" height="30" width="40" /></a>
 </p>
