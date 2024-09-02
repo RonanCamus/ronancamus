@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Ronan Camus",
-    "label": "Freelance Pylote",
+    "label": "CTO Freelance | Développeur Full-Stack passionné",
     "image": "https://avatars.githubusercontent.com/u/10685957?v=4",
     "email": "ronan@pylote.io",
-    "phone": "",
+    "phone": "0680506571",
     "url": "https://www.linkedin.com/in/freelance-cto/",
     "summary": "🎓 Epitech Promo 2018\n\n🚀 CTO & Cofondateur de Pylote.io, une extension dédiée au développeurs freelances.\n\n------------------------------------------------------------------------------------\n\n\n\n🔧 Je propose en ce moment une offre de développement d'extensions Chrome, Firefox, Safari etc.\n\nL'extension Pylote parle d'elle même, je suis capable de bootstraper ou développer entièrement tout type d'extension ✅. Je peux également convertir une extension existante vers un autre navigateur.\n\nDu scrapping Linkedin (ou autre), aux outils de productivités, aux vpn - j'adore les challenges et la R&D.\n\nJe travaille aussi sur une formation aux développement d'extensions qui apparaîtra sur Udemy.\n\n\n\n------------------------------------------------------------------------------------\n\nJe suis également disponible en temps que CTO à temps partiel pour start-up à un rythme max de 2j/semaine ⤵️ \n\n- Réunion de lancement pour mettre à jour les objectifs court termes\n- Échange avec le/la CEO pour s’imprégner de la stratégie et de la vision du projet\n- Priorisation des fonctionnalités, choix des technos et identification des étapes de développement\n- Formalisation de la roadmap produit\n- Choix du type d’équipe, de ses compétences et de son évolution dans le temps\n- Formalisation des budgets techniques et mise à jour du BP\n- Accompagnement aux rdv investisseurs /subventions\n- Ajustement de la roadmap en fonction des échanges pour les subventions\n- Appel à un UX/UI designer si besoin de maquettes\n- Optimisation des développements, challenge des développeurs\n- Sourcing de l’équipe\n- Pilotage des développements, challenge et formation des développeurs\n- COPIL mensuel pour faire un bilan des avancées, lever les points d’alerte et ajuster les objectifs sur les semaines qui viennent\n- Éventuellement, développement de features, ou R&D\n\n👋\n",
     "location": { "address": "Ile-de-France" },
@@ -36,7 +36,7 @@
       "name": "Pylote",
       "position": "CTO & Co-fondateur",
       "startDate": "2020-08-01",
-      "summary": "Développement from scratch de l'extension.\nLa première année en html/css/js vanilla. Depuis, refonte totale en React/Typescript/NestJS &co.\n\nDisponible sur le Chrome Store et Mozilla Addons.\n\nElle permet aux freelances de mettre à jour leur disponibilités sur plusieurs plateformes en un clic et d'avoir un profil centralisé.\n\nhttps://pylote.io"
+      "summary": "Développement from scratch de l'extension.\nLa première année en html/css/js vanilla. Depuis, refonte totale en React/Typescript/NestJS &co.\n\nDisponible sur le Chrome Store et Mozilla Addons (20k users).\n\nElle permet aux freelances de mettre à jour leur disponibilités sur plusieurs plateformes en un clic et d'avoir un profil centralisé.\n\nhttps://pylote.io"
     },
     {
       "name": "Simon, l’assistant communication",
