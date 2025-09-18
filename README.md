@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/freelance-cto/recent-activity/shares/](https://www.linkedin.com/in/freelance-cto/recent-activity/shares/)
 
-- 💬 Ask me about **React.js, Node.js or hacking**
+- 💬 Ask me about **Next.js, Nest.js or hacking**
 
 - 📫 How to reach me **-> MP**
 
