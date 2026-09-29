@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ronan Camus</h1>
-<h3 align="center">A passionate fullstack developer from France</h3>
+<h3 align="center">A passionate fullstack developer and fractional CTO from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronancamus&label=Profile%20views&color=0e75b6&style=flat" alt="ronancamus" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronancamus" alt="ronancamus" /></a> </p>
 
-- 🔭 I’m currently working on [Pylote](https://pylote.io)
+- 🔭 I’m currently working on [Pylote](https://pylote.io), [Betjok](https://www.betjok.com) and [Incarn](https://www.incarn.co)
 
 - 🌱 I’m currently learning **AI stuff**
 
@@ -13,13 +13,13 @@
 
 - 🤝 I’m looking for help with [Pylote](https://pylote.io)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/freelance-cto/](https://www.linkedin.com/in/freelance-cto/)
+- 👨‍💻 All of my projects are available at [https://ronancamus.com/contributions/](https://ronancamus.com/contributions/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/freelance-cto/recent-activity/shares/](https://www.linkedin.com/in/freelance-cto/recent-activity/shares/)
 
 - 💬 Ask me about **Next.js, Nest.js or hacking**
 
-- 📫 How to reach me **-> MP**
+- 📫 How to reach me **-> [book a call](https://app.lemcal.com/@ronan-camus/rdv-cto)**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/freelance-cto/](https://www.linkedin.com/in/freelance-cto/)
 
@@ -27,7 +27,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/freelance-cto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="freelance-cto" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/5467919" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5467919" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/theo dorp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="theo dorp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
