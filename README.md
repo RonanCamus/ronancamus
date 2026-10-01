@@ -1,3 +1,5 @@
+<p align="center"><img src="banner.svg" width="100%" alt=""></p>
+
 <h1 align="center">Hi 👋, I'm Ronan Camus</h1>
 <h3 align="center">A passionate fullstack developer and fractional CTO from France</h3>
 
